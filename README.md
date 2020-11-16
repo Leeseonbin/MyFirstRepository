@@ -13,3 +13,6 @@
 
 ## 10주차과제
 <img width="" src="./Png/4.png">
+
+## 12주차과제
+<img width="" src="./Png/12.png">
